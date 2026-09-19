@@ -1,0 +1,7 @@
+padre,hijo
+Transaccion_Monto_5000,Pais_Extranjero_Si
+Transaccion_Monto_5000,Transaccion_Segura_Aprobada
+Pais_Extranjero_Si,Horario_Inusual_Si
+Pais_Extranjero_Si,Transaccion_Segura_Aprobada
+Horario_Inusual_Si,Alerta_Fraude_Bloqueado
+Horario_Inusual_Si,Transaccion_Segura_Aprobada
