@@ -64,6 +64,3 @@ El algoritmo implementado destaca por su alta eficiencia en grandes volúmenes d
 * **Complejidad Espacial:** $O(n)$. Al no ser un algoritmo *in-place*, requiere memoria adicional proporcional al tamaño del arreglo original para almacenar las sublistas temporales.
 * **Estabilidad:** Es un algoritmo **estable**, asegurando que los elementos con claves idénticas mantengan su orden original tras finalizar el proceso.
 
-```
-
-```
