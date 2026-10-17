@@ -23,7 +23,7 @@ Para probar este proyecto en tu entorno local (recomendado desde la terminal int
    git clone [https://github.com/Strangerx12/Programming-Logic-University-.git](https://github.com/Strangerx12/Programming-Logic-University-.git)
    cd "Programming-Logic-University-/Merge Sort Animation"
 
-```
+
 
 2. **Instalar dependencias:**
 ```bash
