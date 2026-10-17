@@ -1,4 +1,3 @@
-```markdown
 # Animación de Merge Sort con Pygame
 
 ## 📌 Descripción
